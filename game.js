@@ -5,7 +5,7 @@ const userItems = ["lint ball", "NeoPet Plushie"]
 const sayName = (name) => {
     console.log("\n\nGoodmorning " + name +".") 
 }
-
+//v
 
 const playerName = readline.question("\nwhat is your name? ")
 sayName(playerName)
