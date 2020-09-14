@@ -1,0 +1,10 @@
+after performing one action the room state changes, new description?
+
+clothed/unclothed states
+(can get dressed at the start, but if not this effects the game as you are unclothed)
+
+makeup/noMakeup states
+
+furbies can be taken from dresser, up to 5 until they are depleeted. each one is a different color when you pick it up.
+
+when you open a door to next area, you are prompted with "do you want to leave the room y/n"

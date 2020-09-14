@@ -1,0 +1,10 @@
+const handState = () => {
+
+    if(hands === "healthy"){
+        console.log("feels good.")
+    } if(hands === "1broken"){
+        console.log("you punch with your good hand")
+    } if(hands === "2broken"){
+        console.log("you're hands are too broken to punch shit")
+    }
+}
